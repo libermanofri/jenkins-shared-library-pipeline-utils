@@ -574,7 +574,6 @@ This project demonstrates practical knowledge in:
 Ofri Liberman
 
 - GitHub: https://github.com/libermanofri
-- LinkedIn: https://linkedin.com/in/ofriliberman
 
 ---
 
